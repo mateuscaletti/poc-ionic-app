@@ -1,0 +1,1 @@
+var AppServiceModule=angular.module("app.services",["ngResource"]);

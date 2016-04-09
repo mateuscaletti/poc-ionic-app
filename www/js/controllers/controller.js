@@ -1,0 +1,1 @@
+var AppControllerModule = angular.module('app.controllers', []);

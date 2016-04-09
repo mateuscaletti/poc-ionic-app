@@ -1,0 +1,1 @@
+var AppModelsModule=angular.module("app.models",[]);
